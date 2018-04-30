@@ -1,3 +1,5 @@
 Added first line to Document.txt
 Added second line to Document.txt hkdhfka
 Added third line to Document.txt
+Added fourth line to Document.txt
+Added fifth line
